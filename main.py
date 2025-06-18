@@ -161,3 +161,4 @@ if __name__ == "__main__":
     # print("<A, C, D, E, F, G, H, I, J, K, L, M, N, O, P>")
     # get_single_answer("MedDG_test", 1, step=106)
     # all_score(user="dzvpeqlw@bccto.cc", password="j12u589B2,6mVh4hubpT")
+    # 第二次提交，直接通过github修改
