@@ -162,3 +162,4 @@ if __name__ == "__main__":
     # get_single_answer("MedDG_test", 1, step=106)
     # all_score(user="dzvpeqlw@bccto.cc", password="j12u589B2,6mVh4hubpT")
     # 第三次提交，通过本地修改，解决和git的冲突
+    # 第二次提交，直接通过github修改
