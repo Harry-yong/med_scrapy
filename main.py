@@ -161,8 +161,3 @@ if __name__ == "__main__":
     # print("<A, C, D, E, F, G, H, I, J, K, L, M, N, O, P>")
     # get_single_answer("MedDG_test", 1, step=106)
     # all_score(user="dzvpeqlw@bccto.cc", password="j12u589B2,6mVh4hubpT")
-    # 测试更改
-    # 第二次测试更改，包含冲突解决
-    # 这是直接在git中修改的
-    # 这是为了测试test2分支，从test中分过来的
-    # 这是在分支2中，测试合并分支到主分支
